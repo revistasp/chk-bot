@@ -3,8 +3,7 @@
 <h1 align="center">chk-bot v2</h1>
 
 <p align="center">
-    # Este bot usa o API do Telegram para acessar banco de dados de bots que exercem a consulta.
-    # Considere se mantêr comportado e respeitar o ToS do Telegram.
+    # Este bot usa o API do Telegram para acessar banco de dados de bots que exercem a consulta.\n# Considere se mantêr comportado e respeitar o ToS do Telegram.
   </p>
 </p> 
 
