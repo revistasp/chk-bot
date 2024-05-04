@@ -1,10 +1,9 @@
 <p>
-"<p align="center" ><img src="https://github.com/revistasp/chk-bot/assets/125148176/6c52837f-4163-42fc-ae09-a8bfce95cba3" alt="README-ASCII" border="0">
+<p align="center" ><img src="https://github.com/revistasp/chk-bot/assets/125148176/6c52837f-4163-42fc-ae09-a8bfce95cba3" alt="README-ASCII" border="0">
+    </p>
 </p>
 
-()
-
-<h1 align="center">chk-bot v2</h1>
+<h2 style="display: inline-block; margin-right: 10px;">About</h2>
 
 <p align="center">
     # Este bot usa o API do Telegram para acessar banco de dados de bots que exercem a consulta.
