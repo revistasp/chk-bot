@@ -28,9 +28,13 @@
 - [x] Consulta de CNPJ
 - [x] Consulta de IP
 
-<h2 style="display: inline-block; margin-right: 10px;">Cloning</h2>
+
+Cloning
+-------
+
 To clone this repository with full history and external libraries:
-    git clone --recursive https://github.com/ddnet/ddnet
+
+    git clone --recursive https://github.com/revistasp/chk-bot
 
 
 
