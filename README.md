@@ -28,8 +28,8 @@
 - [x] Consulta de CNPJ
 - [x] Consulta de IP
 
-<h2 style="display: inline-block; margin-right: 10px;">Cloning</h2>
-<img src="https://github.com/revistasp/chk-bot/assets/125148176/0725512b-6531-473b-9bd1-2c2d4ebd6382" alt="README-ASCII" style="width: 1em; height: 1em; display: inline-block;"> To clone this repository with full history and external libraries:
+<img src="https://github.com/revistasp/chk-bot/assets/125148176/0725512b-6531-473b-9bd1-2c2d4ebd6382" alt="README-ASCII" style="width: 1em; height: 1em; display: inline-block;"> <h2 style="display: inline-block; margin-right: 10px;">Cloning</h2>
+ To clone this repository with full history and external libraries:
     git clone https://github.com/revistasp/chk-bot
 
 
