@@ -31,7 +31,7 @@
 Cloning
 -------
 
-To clone this repository with full history and external libraries:
+Para clonar este repositório com histórico completo e bibliotecas externas:
 
     git clone --recursive https://github.com/revistasp/chk-bot
 
