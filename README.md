@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    # Considere se mantêr comportado e respeitar o ToS do Telegram.
+    # Considere se manter comportado e respeitar o ToS do Telegram.
   </p>
 
 <h2 align="center">📆  Features</h2>
@@ -17,12 +17,8 @@
 - [x] Consulta de Nome
 - [x] Consulta de CPF
 - [ ] Consulta de Telefone
-- [ ] Consulta de CNS
-- [x] Consulta de CPF
-- [ ] Consulta de BIN
-- [x] Consulta de Nome
-- [x] Consulta de Nome da mãe
-- [ ] Consulta de Número
-- [ ] Consulta de Email
+- [x] Consulta de CEP
+- [x] Consulta de BIN
 - [x] Consulta de Placa
-- [x] Geolocalizador de IP
+- [x] Consulta de CNPJ
+- [x] Consulta de IP
