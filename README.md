@@ -27,7 +27,8 @@
 - [x] Consulta de Placa
 - [x] Consulta de CNPJ
 - [x] Consulta de IP
-- [ ] 
-<p>
-"<p align="center" >Cloning<img src="https://github.com/revistasp/chk-bot/assets/125148176/0725512b-6531-473b-9bd1-2c2d4ebd6382" alt="README-ASCII" border="0">
-</p>
+
+<div class="container">
+  <h2>Cloning</h2>
+  <img src="https://github.com/revistasp/chk-bot/assets/125148176/0725512b-6531-473b-9bd1-2c2d4ebd6382" alt="README-ASCII">
+</div>
