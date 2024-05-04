@@ -16,7 +16,7 @@
 
 - [x] Consulta de Nome
 - [x] Consulta de CPF
-- [ ] Consulta de Telefone
+- [x] Consulta de Telefone
 - [x] Consulta de CEP
 - [x] Consulta de BIN
 - [x] Consulta de Placa
