@@ -28,7 +28,7 @@
 - [x] Consulta de IP
 
 
-Cloning
+Documentation
 -------
 
 Para clonar este repositório com histórico completo e bibliotecas externas:
