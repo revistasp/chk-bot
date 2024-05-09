@@ -11,7 +11,7 @@
 </p> 
 
 
-<p align="center">
+<p align="left">
     # Considere se manter comportado e respeitar o ToS do Telegram.
   </p>
   
