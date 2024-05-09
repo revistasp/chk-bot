@@ -5,7 +5,7 @@
 
 <h2 style="display: inline-block; margin-right: 10px;">About</h2>
 
-<p align="center">
+<p align="left">
     # Este bot usa o API do Telegram para acessar banco de dados de bots que exercem a consulta.
   </p>
 </p> 
